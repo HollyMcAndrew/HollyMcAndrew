@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on best data visualization practices.
 - 📫 How to reach me: https://www.linkedin.com/in/hollymcandrew/ 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to take solo road trips throughout the New England area and Canada!
+- ⚡ Fun fact: I love to take solo road trips throughout the New England area and Canada. Also, ask me about my crochet collection!
 
 <!---
 HollyMcAndrew/HollyMcAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
