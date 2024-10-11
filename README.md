@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @HollyMcAndrew! I am currently a candidate for an M.S. in Business Analytics at Brandeis University. My prior professional background includes being an Education Director and a Math Teacher. My goal is to connect my foundational skills in communication, leadership, and mathematics with my growing skills in programming and data visualization to blossom into an impressive data analyst!
-- 👀 I’m interested in data analytics, particularly corporate, financial, sports, and people analytics.
+- 👀 I’m interested in data analytics, particularly corporate, financial, sports, and people analytics. As my passions are in business, finances (ask about my Excel budget!), sports (go Celtics!), and sociology, analytics is an avenue for exploring my passions further!
 - 🌱 I’m currently learning intermediate to advance skills in Python and R.
 - 💞️ I’m looking to collaborate on best data visualization practices.
 - 📫 How to reach me: https://www.linkedin.com/in/hollymcandrew/
