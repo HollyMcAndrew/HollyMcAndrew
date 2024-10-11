@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning intermediate to advance skills in Python and R.
 - 💞️ I’m looking to collaborate on best data visualization practices.
 - 📫 How to reach me: https://www.linkedin.com/in/hollymcandrew/
-- 📝 My resume: file:///C:/Users/holly/OneDrive/Documents/Personal Files/Resumes & Cover Letters & Etc/McAndrew.Holly_Resume.pdf 
+- 📝 My resume: [https://1drv.ms/w/c/402175efb1ba617f/EcRooMBwq_BGk0nKFMDcRncBgakZ5Z83tvJ72MUbUj5I-A?e=WNrKgu](Resume_Link)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to take solo road trips throughout the New England area and Canada. Also, ask me about my crochet collection!
 
