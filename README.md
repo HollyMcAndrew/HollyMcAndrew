@@ -2,7 +2,8 @@
 - 👀 I’m interested in data analytics, particularly corporate, financial, sports, and people analytics.
 - 🌱 I’m currently learning intermediate to advance skills in Python and R.
 - 💞️ I’m looking to collaborate on best data visualization practices.
-- 📫 How to reach me: https://www.linkedin.com/in/hollymcandrew/ 
+- 📫 How to reach me: https://www.linkedin.com/in/hollymcandrew/
+- 📝 My resume: file:///C:/Users/holly/OneDrive/Documents/Personal Files/Resumes & Cover Letters & Etc/McAndrew.Holly_Resume.pdf 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to take solo road trips throughout the New England area and Canada. Also, ask me about my crochet collection!
 
